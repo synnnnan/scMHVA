@@ -4,4 +4,6 @@ Single-cell multi-omics technologies are pivotal for unraveling the complexities
 ### pip
         pip install -r requirements
 ### usage
-##### Running example and parameter setting can be found at <a href="https://github.com/synnnnan/scMHVA//blob/main/tutorial.ipynb">tutorial.ipynb</a>.
+Running example and parameter setting can be found at <a href="https://github.com/synnnnan/scMHVA//blob/main/tutorial.ipynb">tutorial.ipynb</a>.
+## License
+This project is covered under the **MIT License**.
