@@ -27,7 +27,7 @@ Single-cell multi-omics technologies are pivotal for unraveling the complexities
 [pandas 1.5.3]
 [anndata 0.8.0]
 ```
-For specific setting, please see <a href="https://github.com/synnnnan/scMHVA/blob/main/requirements.txt">requirement</a>.
+For specific setting, please see <a href="https://github.com/synnnnan/scMHVA/blob/main/requirements.txt">requirements</a>.
 ### Installation
 ```
 $ conda create -n scMHVA_env python=3.8.18
@@ -35,9 +35,13 @@ $ conda activate scMHVA_env
 $ pip install -r requirements.txt
 ```
 # Data availability
-
 The real multi-omics CITE-seq datasets are freely available at ().
-# usage
+
+# Usage
 Running example and parameter setting can be found at <a href="https://github.com/synnnnan/scMHVA//blob/main/tutorial.ipynb">tutorial.ipynb</a>.
-## License
+
+# Contact
+If you have any suggestions or questions, please email me at ynshi24@mails.jlu.edu.cn.
+
+# License
 This project is covered under the **MIT License**.
