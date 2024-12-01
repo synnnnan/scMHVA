@@ -40,6 +40,26 @@ The real multi-omics CITE-seq datasets are freely available at ().
 # Usage
 Running example and parameter setting can be found at <a href="https://github.com/synnnnan/scMHVA//blob/main/tutorial.ipynb">tutorial.ipynb</a>.
 
+# Key Functions
+ 
+The key functions of the source code and their detailed description.
+
+| Function      | Description                                               |
+| ------------  | --------------------------------------------------------- |
+| preprocess.py | Function of the data preprocessing module of scMHVA       |
+| fusion.py     | Function of the fusion module of scMHVA                   |
+| model.py      | Multi-head Attention-based Variational Autoencoder Network|
+| train.py      | the model training of scMHVA                              |
+| util.py       | the utility functions of the network                      |
+| tutorial.ipynb| a example of scMHVA                                       |
+
+# Results
+
+Multiple comparison experiments were conducted on ten CITE-seq datasets from different sequencing
+platforms using a variety of clustering metrics. The experimental results indicated that scMHVA
+outperforms other state-of-the-art methods on these datasets, and also demonstrated scalability to large
+scale CITE-seq datasets. 
+
 # Contact
 If you have any suggestions or questions, please email me at ynshi24@mails.jlu.edu.cn.
 
