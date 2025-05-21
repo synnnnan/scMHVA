@@ -44,14 +44,14 @@ Running example and parameter setting can be found at <a href="https://github.co
  
 The key functions of the source code and their detailed description.
 
-| Function      | Description                                               |
-| ------------  | --------------------------------------------------------- |
-| preprocess.py | Function of the data preprocessing module of scMHVA       |
-| fusion.py     | Function of the fusion module of scMHVA                   |
-| model.py      | Multi-head Attention-based Variational Autoencoder Network|
-| train.py      | the model training of scMHVA                              |
-| util.py       | the utility functions of the network                      |
-| tutorial.ipynb| a example of scMHVA                                       |
+| Function      | Description                                                |
+| ------------  | ---------------------------------------------------------  |
+| preprocess.py | Function of the data preprocessing module of scMHVA        |
+| fusion.py     | Function of the fusion module of scMHVA                    |
+| model.py      | Fine-Grained Learning for Cellular Embedding Representation|
+| train.py      | the model training of scMHVA                               |
+| util.py       | the utility functions of the network                       |
+| tutorial.ipynb| a example of scMHVA                                        |
 
 # Results
 
