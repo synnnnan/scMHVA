@@ -35,7 +35,7 @@ $ conda activate scMHVA_env
 $ pip install -r requirements.txt
 ```
 # Data availability
-The real multi-omics CITE-seq datasets are freely available at [data](https://zenodo.org/records/15450184).
+The real multi-omics CITE-seq datasets are freely available at [data](https://zenodo.org/records/16762535).
 
 # Usage
 Running example and parameter setting can be found at <a href="https://github.com/synnnnan/scMHVA//blob/main/tutorial.ipynb">tutorial.ipynb</a>.
